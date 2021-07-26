@@ -5,4 +5,4 @@ from bottle import route, run
 @route('/')
 def home():
   return "Hello"
-run()
+run(host='localhost', port=6666)
