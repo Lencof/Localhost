@@ -4,3 +4,5 @@
 from bottle import route, run
 @route('/')
 def home():
+  return "Hello"
+run()
