@@ -39,3 +39,6 @@ friends[0].age
 
 friends[1].age
 // 5
+
+friends[2].age
+// 9
