@@ -15,3 +15,6 @@ friends[1];
 
 friends[2];
 // { name: "kate", age: 9, luckyNumbers: [1, 2, 3] };
+
+friends[2].name
+// "kate"
