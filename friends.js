@@ -27,3 +27,6 @@ friends[0].name
 
 friends[0].luckyNumbers[0]
 // 2
+
+friends[1].luckyNumbers[0]
+// 3
