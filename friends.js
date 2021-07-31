@@ -18,3 +18,9 @@ friends[2];
 
 friends[2].name
 // "kate"
+
+friends[1].name
+// "dave"
+
+friends[0].name
+// "anna"
