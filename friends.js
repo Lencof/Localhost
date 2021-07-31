@@ -24,3 +24,6 @@ friends[1].name
 
 friends[0].name
 // "anna"
+
+friends[0].luckyNumbers[0]
+// 2
