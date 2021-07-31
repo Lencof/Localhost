@@ -36,3 +36,6 @@ friends[2].luckyNumbers[0]
 
 friends[0].age
 // 11
+
+friends[1].age
+// 5
