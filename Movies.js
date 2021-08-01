@@ -26,3 +26,5 @@ var movies = {
 var findingNemo = movies["Finding Nemo"];
 findingNemo.duration;
 100
+findingNemo.format;
+"DVD"
