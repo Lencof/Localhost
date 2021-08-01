@@ -28,3 +28,11 @@ findingNemo.duration;
 100
 findingNemo.format;
 "DVD"
+
+var cars = {
+ releaseDate: 2006,
+ duration: 117,
+ actors: ["Owen Wilson", "Bonnie Hunt", "Paul Newman"],
+ format: "Blu-ray"
+};
+movies["Cars"] = cars;
