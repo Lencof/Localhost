@@ -36,3 +36,8 @@ var cars = {
  format: "Blu-ray"
 };
 movies["Cars"] = cars;
+
+
+Object.keys(movies);
+["Finding Nemo", "Star Wars: Episode VI - Return
+Jedi", "Harry Potter and the Goblet of Fire", "Cars"] 
