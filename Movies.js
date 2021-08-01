@@ -22,3 +22,5 @@ var movies = {
   format: "Blu-ray"
   }
 };
+
+var findingNemo = movies["Finding Nemo"];
