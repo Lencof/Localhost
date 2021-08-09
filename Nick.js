@@ -9,4 +9,5 @@ for (var i = 0; i < name.length; i++) {
 /*
 I have the letter N. in my name.
 I have the letter i in my name.
+I have the letter k in my name. 
 */
