@@ -5,3 +5,8 @@ var name = "Nick";
 for (var i = 0; i < name.length; i++) {
  console.log("There is a letter in my name " + name[i] + ".");
 }
+
+/*
+I have the letter N. in my name.
+
+*/
