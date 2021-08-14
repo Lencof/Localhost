@@ -5,3 +5,5 @@ var Ro = function () {
     console.log("Ro!");
 };
 
+Ro()
+//
