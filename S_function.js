@@ -4,3 +4,6 @@
 var S function () {
     console.log("S bit");
 };
+
+S()
+// S bit
