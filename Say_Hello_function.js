@@ -7,3 +7,6 @@ var sayHello = function (name) {
 
 sayHello("Nick")
 // Hello, Nick!
+
+sayHello("Sara")
+// Hello, Sara!
