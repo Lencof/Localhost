@@ -6,3 +6,5 @@ var printMultipleTimes = function (howManyTimes, whatToDraw) {
     console.log(i + " " + whatToDraw);
   }
 };
+
+printMultipleTimes(5, "=^.^=");
