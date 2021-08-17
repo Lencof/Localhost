@@ -9,3 +9,6 @@ var randomWords = ["Planet", "Lopo", "Apple", "Bleu"];
 
 pickRandomWord(randomWords);
 // Apple
+
+pickRandomWord(randomWords);
+// Planet
