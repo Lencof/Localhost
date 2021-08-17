@@ -8,3 +8,4 @@ var pickRandomWord = function (words) {
 var randomWords = ["Planet", "Lopo", "Apple", "Bleu"];
 
 pickRandomWord(randomWords);
+// Apple
