@@ -9,4 +9,6 @@ var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
 var randomWord = randomWords[Math.floor(Math.random() * 5)];
 
 var randomInsult = "At your place " + randomBodyPart + " as if " + randomAdjective + " " + randomWord + "!!!";
+
 randomInsult;
+//"Your nose is like a stupid otter !!!"
