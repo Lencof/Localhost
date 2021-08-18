@@ -4,3 +4,6 @@
 var randomBodyParts = ["eye", "nose", "scull"];
 var randomAdjectives = ["smelly", "dull", "stupid"];
 var randomWords = ["fly", "otter", "дубина", "monkey", "rat"];
+var randomBodyPart = randomBodyParts[Math.floor(Math.random() * 3)];
+var randomAdjective = randomAdjectives[Math.floor(Math.random() * 3)];
+var randomWord = randomWords[Math.floor(Math.random() * 5)];
