@@ -13,3 +13,6 @@ var medalForScore = function (score) {
 
 medalForScore("B")
 // Bronze
+
+medalForScore("S")
+// Silver
