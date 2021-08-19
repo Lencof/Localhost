@@ -16,3 +16,6 @@ medalForScore("B")
 
 medalForScore("S")
 // Silver
+
+medalForScore("G")
+// Gold
