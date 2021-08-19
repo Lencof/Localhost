@@ -5,3 +5,8 @@
 var double = function (number) {
  return number * 2;
 };
+
+// The shorthand for the same function looks like this: 
+function double(number) {
+ return number * 2;
+}
