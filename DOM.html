@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Learning DOM</title>
+</head>
 
+<body>
+    <h1 id="mains">Hello, Wolrd!</h1>
+
+    <script>
+var headingElement = document.getElementById("mains");
+console.log(headingElement.innerHTML);
+var newHeadingText = prompt("Send me)");
+headingElement.innerHTML = newHeadingText;
+    </script>
+</body>
+</html>
