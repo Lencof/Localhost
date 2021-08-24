@@ -4,3 +4,5 @@
 var timeUp = function () {
  alert("Time is over!");
 };
+
+setTimeout(timeUp, 3000);
