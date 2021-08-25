@@ -11,3 +11,4 @@ var printMessage = function () {
 var intervalId = setInterval(printMessage, 1000);
 
 // You are already looking at the console 1 sec
+// You are already looking at the console 2 sec
