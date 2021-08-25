@@ -13,3 +13,4 @@ var intervalId = setInterval(printMessage, 1000);
 // You are already looking at the console 1 sec
 // You are already looking at the console 2 sec
 // You are already looking at the console 3 sec
+// You are already looking at the console 4 sec
