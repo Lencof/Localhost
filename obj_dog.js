@@ -4,5 +4,5 @@
 var dog = {
   name: "Fritters",
   legs: 4,
- isAwesome: true
+  isAwesome: true
 };
