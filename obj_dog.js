@@ -3,6 +3,6 @@
 
 var dog = {
   name: "Fritters",
- legs: 4,
+  legs: 4,
  isAwesome: true
 };
