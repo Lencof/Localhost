@@ -2,7 +2,7 @@
 // obj_dog.js
 
 var dog = {
- name: "Fritters",
+  name: "Fritters",
  legs: 4,
  isAwesome: true
 };
