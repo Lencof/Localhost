@@ -2,7 +2,7 @@
 // pig_function.js
 
 var pig = {
- sound: "Hrw",
- name: "Charlie",
- speak: speak
+  sound: "Hrw",
+  name: "Charlie",
+  speak: speak
 };
