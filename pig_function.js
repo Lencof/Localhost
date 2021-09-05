@@ -12,3 +12,6 @@ var horse = {
   name: "Mary",
   speak: speak
 };
+
+pig.speak();
+// Oink! My name is Charlie!
