@@ -15,3 +15,6 @@ var horse = {
 
 pig.speak();
 // Oink! My name is Charlie!
+
+horse.speak();
+// Yee-haw! My name is Mary!
