@@ -6,6 +6,7 @@ var pig = {
   name: "Charlie",
   speak: speak
 };
+
 var horse = {
   sound: "I-go-go",
   name: "Mary",
