@@ -1,5 +1,5 @@
 // __Author__ __Lencof__
-
+// F_prompt.js
 
 let userName = prompt('What your name?');
 let userAge = prompt('How old are you??');
